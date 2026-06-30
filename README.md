@@ -5,7 +5,7 @@ Author- Nikita Shelkikar.
 <br>
 From- India.
 #Heading tag
-<h1>Welcome to htlm </h1>
+<h1>Welcome to HTML</h1>
 <h2>Full-Stack cirriculum</h2>
 <h3>HTML represents the context and structure of a webpage.</h3>
 <h4>Css is used to style a webpage</h4>
