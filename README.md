@@ -12,6 +12,7 @@ From- India.
 <h5>JavaScript makes your webpage interactive</h5>
 <h6>In this we are going to learn fill HTML.</h6>
 <h7>Thank you</h7>
+<br>
 #paragraph tag
 <p>Let me tell you about my fantastic holiday in Paris.
   I saw the impressive Eiffel Tower up close!</p>
