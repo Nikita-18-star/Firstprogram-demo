@@ -16,5 +16,14 @@ From- India.
 #paragraph tag
 <p>Let me tell you about my fantastic holiday in Paris.
   I saw the impressive Eiffel Tower up close!</p>
+
+  <header>
+     <nav>
+       <a href="#">Home</a>
+       <a href="#">About</a>
+       <a href="#">Contact</a>
+     </nav>
+  </header>  
+       
   
 
